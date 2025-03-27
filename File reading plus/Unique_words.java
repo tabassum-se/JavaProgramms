@@ -1,4 +1,4 @@
-// this code read file
+// this code reads file
 // count all words
 // count unique words 
 
